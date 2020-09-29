@@ -1,1 +1,1 @@
-# SecondProject
+Repository for second project
