@@ -16,6 +16,8 @@ public class TestClass {
 		    System.out.println("hello 3");	
 		}else if(num == 2){
 			System.out.println("hello 2");
+	        }else if(num == 4){
+			System.out.println("hello 4");
 		}else {
 			System.out.println("default");
 		}
